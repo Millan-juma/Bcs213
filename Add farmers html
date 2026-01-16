@@ -23,7 +23,7 @@
 
         }
         .form-label{
-            font-weight: bold;
+            font-weight: bolder;
         }
         .table td{
             padding: 10px;
@@ -34,7 +34,7 @@
     
 </head>
 <body>
-    <!--Design A form with 5 fields using tables and forms in bootstrap -->
+    
     <div class="container mt-5">
         <h2 class="mb-4">Add Farmer</h2>
         <table class="table table-bordered">
